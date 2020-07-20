@@ -1,0 +1,1 @@
+cmd_/home/victor/Documents/EmbII/Kernel/TareaCallback/tarea.mod := { echo  /home/victor/Documents/EmbII/Kernel/TareaCallback/tarea.o; echo; } > /home/victor/Documents/EmbII/Kernel/TareaCallback/tarea.mod

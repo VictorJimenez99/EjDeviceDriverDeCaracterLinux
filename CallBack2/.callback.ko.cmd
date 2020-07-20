@@ -1,0 +1,1 @@
+cmd_/home/victor/Documents/EmbII/Kernel/CallBack2/callback.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 --build-id  -T ./scripts/module-common.lds -o /home/victor/Documents/EmbII/Kernel/CallBack2/callback.ko /home/victor/Documents/EmbII/Kernel/CallBack2/callback.o /home/victor/Documents/EmbII/Kernel/CallBack2/callback.mod.o;  true

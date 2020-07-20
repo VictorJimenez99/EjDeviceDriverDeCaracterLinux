@@ -1,0 +1,1 @@
+cmd_/home/victor/Documents/EmbII/Kernel/CallBack2/callback.mod := { echo  /home/victor/Documents/EmbII/Kernel/CallBack2/callback.o; echo; } > /home/victor/Documents/EmbII/Kernel/CallBack2/callback.mod

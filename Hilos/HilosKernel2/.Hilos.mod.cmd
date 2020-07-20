@@ -1,0 +1,1 @@
+cmd_/home/victor/Documents/EmbII/Kernel/HilosKernel2/Hilos.mod := { echo  /home/victor/Documents/EmbII/Kernel/HilosKernel2/Hilos.o; echo; } > /home/victor/Documents/EmbII/Kernel/HilosKernel2/Hilos.mod

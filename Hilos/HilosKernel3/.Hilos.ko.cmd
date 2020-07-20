@@ -1,0 +1,1 @@
+cmd_/home/victor/Documents/EmbII/Kernel/HilosKernel3/Hilos.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 --build-id  -T ./scripts/module-common.lds -o /home/victor/Documents/EmbII/Kernel/HilosKernel3/Hilos.ko /home/victor/Documents/EmbII/Kernel/HilosKernel3/Hilos.o /home/victor/Documents/EmbII/Kernel/HilosKernel3/Hilos.mod.o;  true

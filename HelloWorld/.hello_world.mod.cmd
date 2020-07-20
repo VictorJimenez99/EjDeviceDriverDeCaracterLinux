@@ -1,0 +1,1 @@
+cmd_/home/victor/Documents/EmbII/Kernel/HelloWorld/hello_world.mod := { echo  /home/victor/Documents/EmbII/Kernel/HelloWorld/hello_world.o; echo; } > /home/victor/Documents/EmbII/Kernel/HelloWorld/hello_world.mod
